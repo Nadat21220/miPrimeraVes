@@ -1,5 +1,4 @@
 <script>
-    import adapter from '@sveltejs/adapter-vercel'
 
     let books = [];
     // ===== ADD BOOK FUNCTIONALITY START =====
